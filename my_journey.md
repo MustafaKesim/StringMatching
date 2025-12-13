@@ -127,7 +127,13 @@ This project significantly improved our understanding of:
 Overall, this assignment was a valuable learning experience that combined **algorithm theory**, **implementation**, and **experimental evaluation**.
 
 ---
+## Submission Information
 
+The final project report titled  
+**“TevfikHanParlak_22050111025_MustafaKesim_2205011064.pdf”**  
+was submitted through the **Aybuzem** system in accordance with the course submission requirements before the deadline.
+
+---
 ## Student Information
 
 **Name:** Mustafa Kesim - Tevfik Han Parlak
